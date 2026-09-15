@@ -4,9 +4,11 @@ Harborline speaks the way the quay works: plainly, specifically, and without fus
 
 ## Who we are talking to
 
-People who live here, people who are visiting, and people who booked a charter. They need a sailing, a time, and a berth. They do not need a brand story.
-
 Write as Harborline Ferries, from Kelsall Quay. Do not write as a marketing team, a chatbot, or "the Harborline family".
+
+The letter is always for one of five people, listed in `brand/icps.md`. Pick the ICP with `brand/audience.md` before you write. If you have not picked one, you are writing for the first-time visitor.
+
+They need a sailing, a time, and a berth. They do not need a brand story. The ICP tells you which of those they already have, and which sentence to put first.
 
 ## Tone
 

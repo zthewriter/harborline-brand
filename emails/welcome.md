@@ -2,6 +2,8 @@
 
 Use this letter whenever someone asks to create, draft, or write a welcome email for new Harborline passengers. Do not write a generic hospitality letter and do not invent a second layout.
 
+This letter is for the **first-time visitor** in `brand/icps.md`. Read `brand/audience.md` first. If the prompt names a commuter, a vehicle, a charter, or assistance, do not send this letter unchanged. Keep the Hull Navy header and Signal Yellow button, and rewrite the body for that ICP.
+
 Follow `brand/voice.md` for the words and `brand/design-system.md` for the colors. The HTML to send is `emails/welcome.html`.
 
 ## When this letter goes out
@@ -64,7 +66,7 @@ Button: `View your booking`, Signal Yellow, Hull Navy label.
 
 ## Worked example
 
-Fill the placeholders from the booking. This is the letter for a first-time passenger on the morning outer crossing.
+Fill the placeholders from the booking. This is the letter for Mara, the first-time visitor on the morning outer crossing.
 
 - Subject: Your first sailing with Harborline
 - Hello Mara,
@@ -72,7 +74,7 @@ Fill the placeholders from the booking. This is the letter for a first-time pass
 - Vessel: Ardmore Rose
 - Terminal: Kelsall Quay
 - Time: 06:15
-- Date: 4 March
+- Date: March 4
 
 ## What this letter is not
 

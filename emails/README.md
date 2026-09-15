@@ -1,6 +1,6 @@
 # Customer emails
 
-The only letter in this kit is the new-customer welcome.
+The only letter in this kit is the new-customer welcome. It is written for the first-time visitor ICP. Other audiences are in `brand/icps.md`. Use `brand/audience.md` to choose.
 
 - `welcome.md` — when to send it, the colors, and the copy
 - `welcome.html` — the HTML to send

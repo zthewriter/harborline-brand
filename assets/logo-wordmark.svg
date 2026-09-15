@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 140" role="img" aria-label="Harborline Ferries">
+  <rect width="640" height="140" fill="#12263A"/>
+  <polyline points="28,108 70,36 112,108" fill="none" stroke="#E0A512" stroke-width="14" stroke-linejoin="miter"/>
+  <text x="140" y="82" fill="#FFFFFF" font-family="Arial Narrow, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="4">HARBORLINE</text>
+  <text x="142" y="112" fill="#E0A512" font-family="Arial, sans-serif" font-size="14" letter-spacing="6">FERRIES</text>
+</svg>

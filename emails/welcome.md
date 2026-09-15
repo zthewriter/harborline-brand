@@ -2,7 +2,7 @@
 
 Use this letter whenever someone asks to create, draft, or write a welcome email for new Harborline passengers. Do not write a generic hospitality letter and do not invent a second layout.
 
-Follow `brand/voice.md` for the words and `brand/design-system.md` for the colours. The HTML to send is `emails/welcome.html`.
+Follow `brand/voice.md` for the words and `brand/design-system.md` for the colors. The HTML to send is `emails/welcome.html`.
 
 ## When this letter goes out
 
@@ -15,9 +15,9 @@ After the first booking is confirmed. One letter, one purpose. It does not sell 
 
 Never: "Welcome aboard!" or "We're excited to have you".
 
-## Colours in this letter
+## Colors in this letter
 
-| Piece | Colour | Hex |
+| Piece | Color | Hex |
 |---|---|---|
 | Header bar | Hull Navy | `#12263A` |
 | Header wordmark | White | `#FFFFFF` |
@@ -29,7 +29,7 @@ Never: "Welcome aboard!" or "We're excited to have you".
 | Button label | Hull Navy | `#12263A` |
 | Footer bar | Hull Navy | `#12263A` |
 
-Images: `assets/email-header.png` at the top, `assets/chevron-yellow.png` if a small mark is needed beside the greeting, `assets/email-footer.png` at the bottom. If a picture of the brand colours is asked for, use `assets/brand-kit.png`.
+Images: `assets/email-header.png` at the top, `assets/chevron-yellow.png` if a small mark is needed beside the greeting, `assets/email-footer.png` at the bottom. If a picture of the brand colors is asked for, use `assets/brand-kit.png`.
 
 ## The letter
 

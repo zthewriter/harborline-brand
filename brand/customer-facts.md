@@ -48,26 +48,26 @@ Assisted travel can be booked up to 24 hours before departure. A passenger who a
 
 ## When things go wrong
 
-Scheduled services: there is no weather exclusion. A cancelled sailing, with no alternative the same day, is a full refund of the fare plus £30 per passenger. Delays of 30 minutes or more can be claimed on the online form within 28 days.
+Scheduled services: there is no weather exclusion. A canceled sailing, with no alternative the same day, is a full refund of the fare plus £30 per passenger. Delays of 30 minutes or more can be claimed on the online form within 28 days.
 
 | Delay on arrival | Entitlement |
 |---|---|
 | Under 30 minutes | None |
-| 30 to 59 minutes | 25 per cent of the fare |
-| 60 to 119 minutes | 50 per cent of the fare |
-| 120 minutes or more | 100 per cent of the fare |
-| Cancelled, no alternative same day | 100 per cent plus £30 per passenger |
+| 30 to 59 minutes | 25 percent of the fare |
+| 60 to 119 minutes | 50 percent of the fare |
+| 120 minutes or more | 100 percent of the fare |
+| Canceled, no alternative same day | 100 percent plus £30 per passenger |
 
 Compensation is paid back to the original method of payment within 14 days of a valid claim.
 
 Charter bookings are a different regime. Do not apply the table above to a charter.
 
-| Cancelled by | Notice | Refund |
+| Canceled by | Notice | Refund |
 |---|---|---|
-| The charterer | More than 21 days | 90 per cent of the fee |
-| The charterer | 8 to 21 days | 50 per cent of the fee |
+| The charterer | More than 21 days | 90 percent of the fee |
+| The charterer | 8 to 21 days | 50 percent of the fee |
 | The charterer | 7 days or less | No refund |
-| Harborline, weather | Any | 100 per cent of the fee, no extra payment |
-| Harborline, technical | Any | 100 per cent plus 15 per cent of the fee as a credit |
+| Harborline, weather | Any | 100 percent of the fee, no extra payment |
+| Harborline, technical | Any | 100 percent plus 15 percent of the fee as a credit |
 
 A welcome letter does not recite the refund table. Point to it only when the letter is about a delay or a cancellation.

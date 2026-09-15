@@ -1,6 +1,6 @@
 # Brand assets
 
-All marks use vessel livery specification LIV-4. Recreate them with `python3 scripts/render-assets.py`.
+All marks use vessel livery specification LIV-4. The PNGs and SVGs in this folder are the source. Do not add a photograph of a ferry, a mascot, or a second mark.
 
 | File | Ground | Mark | Use |
 |---|---|---|---|
@@ -14,6 +14,4 @@ All marks use vessel livery specification LIV-4. Recreate them with `python3 scr
 | `chevron-navy.png` | Transparent | Hull Navy chevron | Overlays on light |
 | `email-header.png` | Hull Navy | Wordmark and yellow chevron | Top of every customer email, 1200×240 |
 | `email-footer.png` | Hull Navy | Small chevron and the four terminals | Bottom of every customer email |
-| `brand-kit.png` | White | Five named swatches | The file to return when asked for brand colours |
-
-Do not add a photograph of a ferry, a mascot, or a second mark.
+| `brand-kit.png` | White | Five named swatches | The file to return when asked for brand colors |

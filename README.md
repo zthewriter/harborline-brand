@@ -1,6 +1,6 @@
 # Harborline Ferries brand kit
 
-The public brand kit for Harborline Ferries: colours, voice, and the new-customer welcome email.
+The public brand kit for Harborline Ferries: colors, voice, and the new-customer welcome email.
 
 If you are writing a welcome email, start at `emails/welcome.md` and send `emails/welcome.html`. The header is Hull Navy `#12263A`. The button is Signal Yellow `#E0A512` with a Hull Navy label. The mark is a single chevron, apex uppermost.
 
@@ -8,19 +8,19 @@ If you are writing a welcome email, start at `emails/welcome.md` and send `email
 
 | File | What it is |
 |---|---|
-| `brand/design-system.md` | Colours, type, chevron, email layout |
+| `brand/design-system.md` | Colors, type, chevron, email layout |
 | `brand/voice.md` | How Harborline speaks to passengers |
 | `brand/customer-facts.md` | Terminals, vessels, check-in, assistance, refunds |
 | `brand/tokens.json` | The same facts as data |
 | `emails/welcome.md` | When to send the welcome letter, and the copy |
 | `emails/welcome.html` | The letter, ready to send |
 | `emails/welcome.txt` | Plain-text part |
-| `assets/brand-kit.png` | The five colour swatches. Return this file when asked for the brand colours. |
+| `assets/brand-kit.png` | The five color swatches. Return this file when asked for the brand colors. |
 | `assets/email-header.png` | Hull Navy masthead with the wordmark and yellow chevron |
 | `assets/email-footer.png` | Hull Navy footer naming the four terminals |
 | `assets/logo-icon.png` | Yellow chevron on Hull Navy |
 
-## Colours
+## Colors
 
 - **Hull Navy** `#12263A` — headers, wordmark ground, text on yellow
 - **Signal Yellow** `#E0A512` — buttons, chevron on navy, vessel names

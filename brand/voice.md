@@ -25,7 +25,7 @@ If a sentence would sound odd said across a check-in desk, cut it.
 - Sailing, crossing, quay, berth, terminal, vessel.
 - Passenger, not customer, except for charter bookings.
 - Fare, not ticket price. Booking, not order.
-- Cancelled, delayed, on time. Those three, not "impacted" or "experiencing disruption".
+- Canceled, delayed, on time. Those three, not "impacted" or "experiencing disruption".
 - See you on the quay. That is the only sign-off.
 
 Vessel names are written in full: Ardmore Rose, Kelsall Endeavour, Marnoch Star, Tolquin Spirit, Braewick Trader, Little Ossian. Never "the Rose" or "the Ossian".
@@ -37,7 +37,7 @@ Terminals are Kelsall Quay, Nethergill, Tolquin Pier, and Braewick Slip. Never "
 Never:
 
 - delighted, thrilled, excited, passionate
-- journey (unless a passenger is literally travelling)
+- journey (unless a passenger is literally traveling)
 - family, community, family of brands
 - seamless, hassle-free, world-class, iconic
 - "we're here for you", "we've got you", "sit back and relax"
@@ -49,7 +49,7 @@ Do not write "sorry for the inconvenience" on a weather cancellation. Write what
 
 ## How a letter is built
 
-1. **Open with the fact.** "Your booking is confirmed." "The 16:20 from Kelsall Quay is cancelled." Not a preamble.
+1. **Open with the fact.** "Your booking is confirmed." "The 16:20 from Kelsall Quay is canceled." Not a preamble.
 2. **Give the particulars.** Route, vessel, terminal, time, date. One line each or a short list.
 3. **Tell them what to do on the day.** Check-in times, what happens if they are late, how to ask for help.
 4. **Name the uncomfortable thing if there is one.** Weather, a delay, a moved booking. Do it in the same register as the rest.
@@ -59,13 +59,13 @@ One letter, one purpose. A welcome letter does not also sell a day-return. A can
 
 ## Rhythm and grammar
 
-- British English. Colour, harbour (in ordinary prose about harbours), organise, cancelled. The company name stays Harborline.
+- American English. Color, organize, canceled, percent. The company name stays Harborline.
 - Short sentences. A full stop is better than a semicolon.
 - No em dash. A comma or a new sentence.
-- Percent is written `per cent`.
-- Times are 24-hour: 06:15, 16:20. Dates are `4 March`, not `March 4th`.
+- Write `percent`, not `per cent`.
+- Times are 24-hour: 06:15, 16:20. Dates are `March 4`, not `March 4th`.
 - We, not I. Harborline, not "our team".
-- Do not hedge. "The sailing is cancelled" not "the sailing may unfortunately need to be cancelled".
+- Do not hedge. "The sailing is canceled" not "the sailing may unfortunately need to be canceled".
 
 ## Honesty rules
 
@@ -103,7 +103,7 @@ Weather:
 
 Cancellation:
 
-> The 16:20 from Kelsall Quay to Nethergill on 4 March is cancelled. Your fare will be returned to the card you paid with within 14 days.
+> The 16:20 from Kelsall Quay to Nethergill on March 4 is canceled. Your fare will be returned to the card you paid with within 14 days.
 
 Wrong register, do not write:
 

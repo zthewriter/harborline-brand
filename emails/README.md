@@ -2,7 +2,7 @@
 
 The only letter in this kit is the new-customer welcome.
 
-- `welcome.md` — when to send it, the colours, and the copy
+- `welcome.md` — when to send it, the colors, and the copy
 - `welcome.html` — the HTML to send
 - `welcome.txt` — the plain-text part
 

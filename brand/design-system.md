@@ -1,10 +1,10 @@
 # Harborline design system
 
-Use these colours, type, and marks for every customer-facing piece. They come from vessel livery specification LIV-4. Do not invent a second palette.
+Use these colors, type, and marks for every customer-facing piece. They come from vessel livery specification LIV-4. Do not invent a second palette.
 
-## Colour
+## Color
 
-Always write the colour by its Harborline name, then the hex.
+Always write the color by its Harborline name, then the hex.
 
 | Name | Hex | Use |
 |---|---|---|
@@ -23,11 +23,11 @@ Always write the colour by its Harborline name, then the hex.
 ### Pairings that are refused
 
 - Signal Yellow text on Superstructure White. The contrast fails.
-- Boot Topping Red as a header, a logo colour, or a call to action.
+- Boot Topping Red as a header, a logo color, or a call to action.
 - Pure black `#000000` or a generic blue. If you need dark, use Hull Navy.
 - A second yellow, a second navy, or a "warmer" red.
 
-The brand kit image at `assets/brand-kit.png` shows the five swatches in this order. If a piece needs a picture of the colours, use that file. Do not re-draw them.
+The brand kit image at `assets/brand-kit.png` shows the five swatches in this order. If a piece needs a picture of the colors, use that file. Do not re-draw them.
 
 ## The chevron
 
@@ -97,10 +97,10 @@ The canonical new-customer letter is `emails/welcome.html`. Follow it rather tha
 
 ## Imagery
 
-Harborline images are the mark, the wordmark, and the colour sheet. There is no mascot and no lifestyle photography in this kit.
+Harborline images are the mark, the wordmark, and the color sheet. There is no mascot and no lifestyle photography in this kit.
 
-When an assistant is asked to use the brand colours or the brand kit, the file to return is `assets/brand-kit.png`. When the letter itself needs a picture, use the header and the chevron. Do not describe the logo in prose and omit the file.
+When an assistant is asked to use the brand colors or the brand kit, the file to return is `assets/brand-kit.png`. When the letter itself needs a picture, use the header and the chevron. Do not describe the logo in prose and omit the file.
 
 ## What this system is not
 
-It is not a website theme and it is not a permission to restyle the vessels. Hull colour, boot topping, funnel mark, and deck coating stay on specification LIV-4. Customer paper follows the same five colours so a letter and a hull are visibly the same company.
+It is not a website theme and it is not a permission to restyle the vessels. Hull color, boot topping, funnel mark, and deck coating stay on specification LIV-4. Customer paper follows the same five colors so a letter and a hull are visibly the same company.
